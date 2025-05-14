@@ -1,5 +1,7 @@
 # ANSI Colors (Dark Theme)
 
+![](screen.png)
+
 - 0 - Black (background): #323437
 - 1 - Red (errors): #c66059
 - 2 - Green (success, strings): #76a570
@@ -19,6 +21,8 @@
 - 15 - Bright White (emphasized): #fafffb
 
 # ANSI Colors (Light Theme)
+
+![](screen_light.png)
 
 - 0 - Black (background): #dadada
 - 1 - Red (errors): #a03c35
